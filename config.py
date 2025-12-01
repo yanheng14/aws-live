@@ -1,5 +1,5 @@
 customhost = "yh314.c5vxeamaghbb.us-east-1.rds.amazonaws.com"
-customuser = "yh314"
+customuser = "admin"
 custompass = "12345678"
 customdb = "yhdb"
 custombucket = "yh314-bucket"
